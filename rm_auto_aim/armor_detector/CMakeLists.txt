@@ -92,3 +92,4 @@ ament_auto_package(
   docs
   model
 )
+find_package(fmt REQUIRED)
